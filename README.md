@@ -12,3 +12,10 @@ https://python.microbit.org/v/3/
 反正是个preview版本，耶……
 
 对了，主要的谱是 @kottalo 扒的！我只是做了一点微不足道的代码work……
+
+A project based on the microbit v2, which plays the the glory kingdom when the logo is touched, is expected to be a badge or a brooch! (There may be a PCB version, I didn't learn anything about it before...)
+
+https://python.microbit.org/v/3/
+You can try it out on this website, open the py file, and select to hold down the logo, with A and B buttons to adjust the volume.
+
+Anyway, it's a preview version, yay... By the way, the main score was transcribed by @kottalo! I just did a bit of trivial coding work...
